@@ -1,2 +1,6 @@
-# mtm6302-color-of-the-day-final
-This repository contains the final version of the Color of the Day project.
+# Color of the Day
+
+## Objective
+Using the Color of the Day API, allow the user to search for a color by a provided day. 
+
+
